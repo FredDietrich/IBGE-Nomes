@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IBGE-Nomes/static/css/main.65f460da.css",
+    "main.js": "/IBGE-Nomes/static/js/main.177f2885.js",
+    "index.html": "/IBGE-Nomes/index.html",
+    "main.65f460da.css.map": "/IBGE-Nomes/static/css/main.65f460da.css.map",
+    "main.177f2885.js.map": "/IBGE-Nomes/static/js/main.177f2885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f460da.css",
+    "static/js/main.177f2885.js"
+  ]
+}

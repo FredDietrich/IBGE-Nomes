@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.65f460da.css","mappings":"AAAA,WAEI,wBAAyB,CADzB,kBAEJ","sources":["components/searchContainer/SearchContainer.css"],"sourcesContent":[".searchBox {\n    border-radius: 30px;\n    background-color: #e4e4e4;\n}"],"names":[],"sourceRoot":""}
